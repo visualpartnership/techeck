@@ -17,6 +17,7 @@ export default function LargeTestimonial() {
           <div className="space-y-3 text-center">
               <Image
                 className="rounded-full"
+                alt="Collaboration"
                 src={CollaborationImg}
               />
             <p className="text-2xl font-bold text-gray-900">
@@ -25,6 +26,7 @@ export default function LargeTestimonial() {
             </p>
               <Image
                 className="rounded-full"
+                alt="TeCheck"
                 src={MainImg}
               />
             <h1
@@ -41,26 +43,32 @@ export default function LargeTestimonial() {
         <div className="py-12 md:py-20 text-center">
           <Image
             src={OneImg}
+            alt="Registro Gráfico"
           />
           <br/>
           <Image
             src={TwoImg}
+            alt="Registro Gráfico"
           />
           <br/>
           <Image
             src={ThreeImg}
+            alt="Registro Gráfico"
           />
           <br/>
           <Image
             src={FourImg}
+            alt="Registro Gráfico"
           />
           <br/>
           <Image
             src={FiveImg}
+            alt="Registro Gráfico"
           />
           <br/>
           <Image
             className="rounded-full"
+            alt="Visual Partner"
             src={VisualImg}
           />
             <h3
