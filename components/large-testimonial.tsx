@@ -34,7 +34,7 @@ export default function LargeTestimonial() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Registros Gráficos
+              Registros Gráficos!!!
             </h1>
           </div>
         </div>
