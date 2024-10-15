@@ -8,6 +8,10 @@ import ThreeImg from "@/public/images/3.png";
 import FourImg from "@/public/images/4.png";
 import FiveImg from "@/public/images/5.png";
 import VisualImg from "@/public/images/visualpartner.png";
+import Img1 from "@/public/images/taller1.png";
+import Img2 from "@/public/images/taller2.png";
+import Img3 from "@/public/images/taller3.png";
+import Img4 from "@/public/images/taller4.png";
 
 export default function LargeTestimonial() {
   return (
@@ -42,12 +46,22 @@ export default function LargeTestimonial() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="py-12 md:py-20 text-center">
           <Image
-            src={OneImg}
+            src={Img1}
             alt="Registro Gráfico"
           />
           <br/>
           <Image
-            src={TwoImg}
+            src={Img2}
+            alt="Registro Gráfico"
+          />
+          <br/>
+          <Image
+            src={Img3}
+            alt="Registro Gráfico"
+          />
+          <br/>
+          <Image
+            src={Img4}
             alt="Registro Gráfico"
           />
           <br/>
