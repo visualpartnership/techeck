@@ -14,6 +14,9 @@ import Img3 from "@/public/images/taller3.png";
 import Img4 from "@/public/images/taller4.png";
 import Img5 from "@/public/images/taller5.png";
 import Img6 from "@/public/images/taller6.png";
+import Img7 from "@/public/images/taller7.png";
+import Img8 from "@/public/images/taller8.png";
+import Img9 from "@/public/images/taller9.png";
 
 export default function LargeTestimonial() {
   return (
@@ -78,7 +81,17 @@ export default function LargeTestimonial() {
           />
           <br/>
           <Image
-            src={FourImg}
+            src={Img7}
+            alt="Registro Gráfico"
+          />
+          <br/>
+          <Image
+            src={Img8}
+            alt="Registro Gráfico"
+          />
+          <br/>
+          <Image
+            src={Img9}
             alt="Registro Gráfico"
           />
           <br/>
