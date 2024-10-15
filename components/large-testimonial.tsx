@@ -96,11 +96,6 @@ export default function LargeTestimonial() {
           />
           <br/>
           <Image
-            src={FiveImg}
-            alt="Registro Gráfico"
-          />
-          <br/>
-          <Image
             className="rounded-full"
             alt="Visual Partner"
             src={VisualImg}
