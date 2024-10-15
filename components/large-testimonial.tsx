@@ -12,6 +12,8 @@ import Img1 from "@/public/images/taller1.png";
 import Img2 from "@/public/images/taller2.png";
 import Img3 from "@/public/images/taller3.png";
 import Img4 from "@/public/images/taller4.png";
+import Img5 from "@/public/images/taller5.png";
+import Img6 from "@/public/images/taller6.png";
 
 export default function LargeTestimonial() {
   return (
@@ -66,7 +68,12 @@ export default function LargeTestimonial() {
           />
           <br/>
           <Image
-            src={ThreeImg}
+            src={Img5}
+            alt="Registro Gráfico"
+          />
+          <br/>
+          <Image
+            src={Img6}
             alt="Registro Gráfico"
           />
           <br/>
