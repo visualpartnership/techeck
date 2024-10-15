@@ -22,7 +22,7 @@ export default function LargeTestimonial() {
               />
             <p className="text-2xl font-bold text-gray-900">
               Derechos de consumidores financieros:
-              <em className="italic text-gray-500">Protección de datos, ciberseguridad y repación.</em>
+              <em className="italic text-gray-500">Protección de datos, ciberseguridad y reparación.</em>
             </p>
               <Image
                 className="rounded-full"
@@ -34,7 +34,7 @@ export default function LargeTestimonial() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Registros Gráficos!!!
+              Registros Gráficos
             </h1>
           </div>
         </div>
